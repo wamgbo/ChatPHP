@@ -108,7 +108,3 @@ ChatPHP/
 Fork → 建立分支 → 提交 PR。
 
 ---
-
-## 📜 License | 授權
-
-目前尚未指定授權。若要使用開源授權，可考慮 MIT、Apache 2.0 或 GPL 等 License。
